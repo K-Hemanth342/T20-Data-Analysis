@@ -1,1 +1,2 @@
 # T20-Data-Analysis
+The Project Aims to analyze the T20 Teams Performances and individual player Historical T20 Data includes detailed information on teams, Matchesplayed and Player Performances by Focusing on key metrics Such as Runs Scored, Strike Rates, Bowling Economy, Batting Positions & Match Winners.Through data-driven insights, the project evaluates team strengths, identifying top-performing players and highlights trends in player efficiency. The analysis will assist data analysts in Understanding pattern, optimizing Strategies & making data-backed decisions
